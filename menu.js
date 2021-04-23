@@ -1,21 +1,18 @@
 const help = (p, date, user, wame) => {
-return `┏━ ℘ąɬơ ცơɬ ۷5 ━┓
+return `┏━ ✿ꦿꦼ⃚ᤢ᪥⃞ℒᏆℒᏆ؀ᎦᎪ᪲ᎷᎪ࿆᪲⃟٭⃢﷽ ━┓
 ║                                                           
-║ _*🕐 Fecha: ${date} 🕐*_
-║ _*👥 Usuario: ${user} 👥*_
-║ _*🧩 Su link 🧩: ${wame} *_                                        
+║ _*Fecha: ${date} *_
+║ _*Usuario: ${user} *_
+║ _*Su link: ${wame} *_                                        
 ║                                                           
-┣══════ Redes ══════┫
+┣══════ Grupos ══════┫
 ║
 ║
 ║ _Grupo 1 wsp:_
-║ _*🪀 https://bit.ly/3dr6p2P 🪀*_
+║ _*https://chat.whatsapp.com/E00OV3deffGHhy3TQUPGNK*_
 ║
 ║ _Grupo 2 wsp:_
-║ _*🪀 https://bit.ly/3wiL04v 🪀*_
-║
-║ _📹 𝐘𝐨𝐮𝐭𝐮𝐛𝐞:_
-║ _*🌐 http://bit.ly/mrpato-yt 🌐*_
+║ _*https://chat.whatsapp.com/GLsamFLxb1W78Y7ISYJOKA*_
 ║
 ┗════════════════════════┛ 
     
@@ -250,5 +247,6 @@ return `┏━ ℘ąɬơ ცơɬ ۷5 ━┓
 }
 
 exports.help = help
+
 
 
