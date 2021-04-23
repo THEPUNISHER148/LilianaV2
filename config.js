@@ -1,48 +1,48 @@
-const ownerNumber = ["17694448714@s.whatsapp.net"] 
+const ownerNumber = ["5217443211396@s.whatsapp.net"] 
 // Tú número
 
-const OriginalOwner = '17694448714' 
+const OriginalOwner = '527443211396' 
 // Tú número x2
 
 const apikeyporn = 'fc8fe174f018b95cdae9272493f1a12f'
 // sua key do imgbb para ativar o antiporn
 
-const cr = '℘ąɬơ ცơɬ ۷5\n' 
+const cr = '✿ꦿꦼ⃚ᤢ᪥⃞ℒᏆℒᏆ؀ᎦᎪ᪲ᎷᎪ࿆᪲⃟٭⃢﷽\n' 
 // texto del menu
 
 const prefix = '!' 
 // prefixo
 
-const blockedmsg = '*Tu número esta baneado con el bot😘*'
+const blockedmsg = '*Tu número esta baneado con el bot*'
 // mensagem quando alguem bloqueado solicita um comando
 
-const blockedcmdmsg = '*Este comando está bloqueado🚫*'
+const blockedcmdmsg = '*Este comando está bloqueado*'
 // mensagem quando alguem solicita um comando bloqueado 
 
 // MENSAGENS DE BAN
 
-const banmsgtype = '*Corre miembro del grupo, tu ban esta cerca*'
+const banmsgtype = '*Corre miembro del grupo, tu ban esta cerca...*'
 // mensagem de ban no anti tipos de mensagem
 
 const adminmsgtype = '*Eres admin te salvaste*'
 // mensagem de quando adm manda tipos de mensagens proibidas
 
-const banmsgporn = '*Pajero* ...'
+const banmsgporn = '*Pervertido* ...'
 // mensagem de ban no antiporn
 
-const adminmsgporn = '*Vaya vaya un admin pajero*'
+const adminmsgporn = '*Vaya vaya un admin pervertido*'
 // mensagem de quando adm manda porn com antiporn ativado
 
 const banmsglink = '*Corre miembro del grupo, tu ban esta cerca*'
 // mensagem de ban no antilink
 
-const adminmsglink = 'Te salvaste por ser admin 🙃'
+const adminmsglink = 'Te salvaste por ser admin jsjs'
 // mensagem de quando adm manda link
 
-const adminmsgpalavra = 'Te salvaste por ser admin'
+const adminmsgpalavra = 'Te salvaste por ser admin jsjs'
 // mensagem de quando adm manda uma palavra proibida pelo bot
 
-const banmsgpalavra = '*Corre miembro del grupo, tu ban esta cerca*'
+const banmsgpalavra = '*Corre miembro del grupo, tu ban esta cerca...*'
 // mensagem de ban quando manda uma palavra proibida pelo bot
 
 const qnttravahardroleta = 2
@@ -52,7 +52,7 @@ const qnttravahardroleta = 2
 // MENSAGENS DE BOM DIA BOA TARDE E BOA NOITE
 
 const linkimgday = 'https://i.imgur.com/RR18JiI.jpg'
-const textmsgday = 'Wenos días guap@ 👉👈'
+const textmsgday = 'Wenos días guap@ uwu'
 // link e mensagem de bom dia
 
 const linkimgeve = 'https://i.ibb.co/bLXgcBW/lp-tarde-anime-by-hitsukinyan-db7fpqr-fullview.jpg'
@@ -65,24 +65,24 @@ const textmsgnig = 'Que tengas un buen dia '
 
 // MENSAGENS DE ERRO
 
-const msgerr = 'Lo siento ocurrio un error intentalo nuevamente'
+const msgerr = 'Gomenasai ocurrio un error intentalo nuevamente'
 // mensagem de erro
 
 // MENSAGENS DE AUTOREPLY
 
-const botlindo = 'Gracias'
+const botlindo = 'Aritato >///<'
 const linkbotlindo = 'https://photos1.iorbix.com/00/00/00/00/02/72/43/64/C--6tZwaASQH-b.jpg'
-const botfeio = 'Calla cara de culo 😡'
+const botfeio = 'Calla virgen'
 const cadebot = 'Me llamó onii-chan 👉👈?'
 const botfdp = 'Calla cagada'
-const botgostoso = 'Ojo 😳👉👈'
-const botfofo = 'Ojo 😳👉👈'
+const botgostoso = 'Ojo uwu'
+const botfofo = 'Ojo uwu'
 const botbaianor = 'La tuya'
 const botcorno = 'Come verga'
-const botputa = 'Señora tu madre 😡'
-const botgay = 'Calla mongolo 😡'
-const botviado = 'Calla pvto 😡'
-const numbotfeio = 'dama tu madre 😡'
+const botputa = 'Tu mamá UwU'
+const botgay = 'Tu papá UwU'
+const botviado = 'Calla pvto'
+const numbotfeio = 'dama tu madre'
 // KEYS
 
 const apiTobz = 'key'
@@ -93,18 +93,18 @@ const apiTobz = 'key'
 
 // MENSAGENS DE EXCLUSIVIDADE
 let mess = {
-    wait: '⌛ Aguanta we⌛',
+    wait: '⌛ Aguantame⌛',
     success: '✔️ Con exito ✔️',
     error: {
-        stick: '❌ No se pudo convertir a sticker ❌',
-        Iv: '❌ Link inválido ❌'
+        stick: 'No se pudo convertir a sticker',
+        Iv: 'Link inválido'
     },
     only: {
-        group: '❌ Este comando solo puede ser usado en grupos! ❌',
-        ownerG: '❌ Este comando solo puede ser usado por el dueño del grupo! ❌',
-        ownerB: '❌ Este comando solo puede ser usado por el dueño del bot! ❌',
-        admin: '❌ Calla miembro no pudes usar este comando, solo es para admin facheros ❌',
-        Badmin: '❌ Solo pude ser usado cuando el bot es admin ❌'
+        group: 'Este comando solo puede ser usado en grupos!',
+        ownerG: 'Este comando solo puede ser usado por el dueño del grupo!',
+        ownerB: 'Este comando solo puede ser usado por el dueño del bot!',
+        admin: 'Calla miembro no pudes usar este comando, solo es para admin facheros',
+        Badmin: 'Solo pude ser usado cuando el bot es admin'
     }
 }
 
