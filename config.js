@@ -7,7 +7,7 @@ const OriginalOwner = '527443211396'
 const apikeyporn = 'fc8fe174f018b95cdae9272493f1a12f'
 // sua key do imgbb para ativar o antiporn
 
-const cr = '✿ꦿꦼ⃚ᤢ᪥⃞ℒᏆℒᏆ؀ᎦᎪ᪲ᎷᎪ࿆᪲⃟٭⃢﷽\n' 
+const cr = ' ℒᏆℒᏆ؀ᎦᎪ᪲ᎷᎪ᪲\n' 
 // texto del menu
 
 const prefix = '!' 
@@ -21,28 +21,28 @@ const blockedcmdmsg = '*Este comando está bloqueado*'
 
 // MENSAGENS DE BAN
 
-const banmsgtype = '*Corre miembro del grupo, tu ban esta cerca...*'
+const banmsgtype = '*Bang!!*'
 // mensagem de ban no anti tipos de mensagem
 
-const adminmsgtype = '*Eres admin te salvaste*'
+const adminmsgtype = '*Aunque sea admin no diga malas palabras :3*'
 // mensagem de quando adm manda tipos de mensagens proibidas
 
-const banmsgporn = '*Pervertido* ...'
+const banmsgporn = '*Pervertido...*'
 // mensagem de ban no antiporn
 
 const adminmsgporn = '*Vaya vaya un admin pervertido*'
 // mensagem de quando adm manda porn com antiporn ativado
 
-const banmsglink = '*Corre miembro del grupo, tu ban esta cerca*'
+const banmsglink = '*Bang!!*'
 // mensagem de ban no antilink
 
-const adminmsglink = 'Te salvaste por ser admin jsjs'
+const adminmsglink = '*Te salvaste por ser admin :3*'
 // mensagem de quando adm manda link
 
-const adminmsgpalavra = 'Te salvaste por ser admin jsjs'
+const adminmsgpalavra = '*Te salvaste por ser admin :3*'
 // mensagem de quando adm manda uma palavra proibida pelo bot
 
-const banmsgpalavra = '*Corre miembro del grupo, tu ban esta cerca...*'
+const banmsgpalavra = '*Bang!!*'
 // mensagem de ban quando manda uma palavra proibida pelo bot
 
 const qnttravahardroleta = 2
@@ -60,7 +60,7 @@ const textmsgeve = `Un caffe ☕`
 // link e mensagem de boa tarde
 
 const linkimgnig = 'https://i.ibb.co/VJCd34F/EKvo372-X0-AEd-Hz.jpg'
-const textmsgnig = 'Que tengas un buen dia '
+const textmsgnig = 'Que tengas un buen dia uwu'
 // link e mensagem de boa noite 
 
 // MENSAGENS DE ERRO
@@ -70,8 +70,8 @@ const msgerr = 'Gomenasai ocurrio un error intentalo nuevamente'
 
 // MENSAGENS DE AUTOREPLY
 
-const botlindo = 'Aritato >///<'
-const linkbotlindo = 'https://photos1.iorbix.com/00/00/00/00/02/72/43/64/C--6tZwaASQH-b.jpg'
+const botlindo = 'Aritato...'
+const linkbotlindo = 'https://i.pinimg.com/originals/e5/53/ac/e553ac91451db654c4cef6fe3bff5259.jpg'
 const botfeio = 'Calla virgen'
 const cadebot = 'Me llamó onii-chan 👉👈?'
 const botfdp = 'Calla cagada'
@@ -93,8 +93,8 @@ const apiTobz = 'key'
 
 // MENSAGENS DE EXCLUSIVIDADE
 let mess = {
-    wait: '⌛ Aguantame⌛',
-    success: '✔️ Con exito ✔️',
+    wait: 'Esperame unos momentos',
+    success: 'Con exito',
     error: {
         stick: 'No se pudo convertir a sticker',
         Iv: 'Link inválido'
@@ -113,8 +113,8 @@ let mess = {
 const vcard = 'BEGIN:VCARD\n' 
 + 'VERSION:3.0\n' 
 + 'FN:Mi creador\n' 
-+ 'ORG:℘ąɬơ;\n' 
-+ 'TEL;type=CELL;type=VOICE;waid=17694448714:+1 (769) 444-8714\n' 
++ 'ORG:ᕈປຖᏆᎦℎℇᏒ;\n' 
++ 'TEL;type=CELL;type=VOICE;waid=5217443211396:+52 1 744 321 1396\n' 
 + 'END:VCARD'
 //vcard do propietário, mude os numeros de acordo com o formato que
 //ele corresponde
